@@ -1,0 +1,186 @@
+.frame {
+    width: 100%;
+    height: 800px;
+    border: 3px dotted rgb(119, 119, 119);
+    position: relative;
+    top: 0px;
+    }
+    
+    .square1 {
+    width: 100px;
+    height: 100px;
+    background: white;
+    outline: 3px solid rgb(233, 9, 9);
+    position: relative;
+    top: 120px;
+    left: 50px;
+    }
+    
+    .square2 {
+    width: 100px;
+    height: 100px;
+    background: white;
+    outline: 3px solid rgb(145, 8, 224);
+    position: relative;
+    top: 180px;
+    left: 190px;
+    }
+    
+    .square3 {
+    width: 100px;
+    height: 100px;
+    background: white;
+    outline: 3px solid rgb(33, 221, 16);
+    position: relative;
+    top: 250px;
+    left: 350px;
+    }
+    
+    .frame2 {
+    width: 100%;
+    height: 800px;
+    border: 3px dotted rgb(119, 119, 119);
+    position: relative;
+    top: 50px;
+    }
+    
+    .square21 {
+    width: 100px;
+    height: 100px;
+    background: rgb(230, 4, 4);
+    outline: 3px solid rgb(230, 4, 4);
+    position: relative;
+    top: 120px;
+    left: 50px;
+    }
+    
+    .square22 {
+    width: 100px;
+    height: 100px;
+    background: rgb(145, 8, 224);
+    outline: 3px solid rgb(145, 8, 224);
+    position: relative;
+    top: 85px;
+    left: 115px;
+    }
+    
+    .square23 {
+    width: 100px;
+    height: 100px;
+    background: rgb(58, 235, 14);
+    outline: 3px solid rgb(58, 235, 14);
+    position: relative;
+    top: 50px;
+    left: 190px;
+    }
+    
+    .frame3 {
+    width: 100%;
+    height: 800px;
+    border: 3px dotted rgb(119, 119, 119);
+    position: relative;
+    top: 100px;
+    }
+    
+    .square31 {
+    width: 100px;
+    height: 100px;
+    background: rgb(230, 4, 4);
+    outline: 3px rgb(230, 4, 4);
+    position: relative;
+    top: 125px;
+    left: 55px;
+    }
+    
+    .square32 {
+    width: 100px;
+    height: 100px;
+    background: rgb(145, 8, 224);
+    outline: 3px solid rgb(145, 8, 224);
+    position: relative;
+    top: 90px;
+    left: 120px;
+    }
+    
+    .square33 {
+    width: 100px;
+    height: 100px;
+    background: rgb(58, 235, 14);
+    outline: 3px solid rgb(58, 235, 14);
+    position: relative;
+    top: 50px;
+    left: 190px;
+    z-index: -50;
+    }
+    
+    
+    
+    .frame4 {
+    width: 100%;
+    height: 800px;
+    border: 3px dotted rgb(119, 119, 119);
+    position: relative;
+    top: 200px;
+    }
+    
+    
+    .fone {
+    width: 90%;
+    height: 700px;
+    background: rgb(58, 235, 14);
+    outline: 2px solid rgb(58, 235, 14);
+    position: relative;
+    top: 50px;
+    left: 80px;
+    }
+    
+    .square4 {
+    width: 250px;
+    height: 250px;
+    background: white;
+    outline: 3px white;
+    position: relative;
+    bottom: 500px;
+    left: 200px;
+    }
+    
+    .square5 {
+    width: 250px;
+    height: 250px;
+    background: white;
+    outline: 3px white;
+    position: relative;
+    bottom: 500px;
+    left: 1300px;
+    }
+    
+    
+    .frame5 {
+    width: 100%;
+    height: 800px;
+    border: 3px dotted rgb(58, 235, 14);
+    position: relative;
+    top:0px;
+    }
+    
+    .news{
+    width:100%;
+    height: 150px;
+    background: rgb(58, 235, 14);
+    position: relative;
+    text-align:center;
+    color:white;
+    font-size: 40px;
+    padding-top: 40px;
+    }
+    
+    .tekst {
+        width: 90%;
+        height: 560px;
+        border: 3px solid F0FFFF;
+        position: relative;
+        top: 30px;
+        font-size: 24px;
+        overflow: auto;
+        padding-left: 50px;
+        }
